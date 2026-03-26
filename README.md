@@ -19,6 +19,8 @@ This project explores a dataset of movies using Python to uncover patterns relat
 * Python
 * Pandas Library
 * VS Code
+* Numpy
+* ast
 
 **Key Outcome**
 

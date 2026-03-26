@@ -1,12 +1,10 @@
 # Movie_analysis
 
-🎥 **Film Industry Data Insights Project**
+---Film Industry Data Insights Project---
 
 This project explores a dataset of movies using Python to uncover patterns related to success, casting, and production strategies.
 
----
-
-### 🔍 **Work Done**
+Work Done
 
 * Cleaned and prepared raw movie data
 * Calculated profit and return on investment (ROI)
@@ -16,16 +14,12 @@ This project explores a dataset of movies using Python to uncover patterns relat
 * Evaluated producers and actors based on performance
 * Examined director and actor collaborations
 
----
-
-### ⚙️ **Tools Used**
+Tools Used
 
 * Python
 * Pandas Library
 * VS Code
 
----
-
-### 📊 **Key Outcome**
+Key Outcome
 
 The project highlights important trends in movie performance and helps identify factors like genre, language, and key people that contribute to a movie’s success.
